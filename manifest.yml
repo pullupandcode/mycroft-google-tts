@@ -1,3 +1,3 @@
 dependencies:
   python:
-    google-cloud-texttospeech
+    - google-cloud-texttospeech
